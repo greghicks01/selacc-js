@@ -1,0 +1,23 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greghicks01/selacc-js.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greghicks01/selacc-js/issues"
+  },
+  "homepage": "https://github.com/greghicks01/selacc-js#readme"
+}
